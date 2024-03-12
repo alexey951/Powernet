@@ -1,0 +1,75 @@
+.bg-color {
+    background: linear-gradient(147.17deg, #D251FF 0%, #FF7A00 100%);
+}
+
+.text-primary {
+    margin-top: 125px;
+    font-size: 74px;
+    color: #fff !important;
+}
+
+.text-secondary {
+    margin-bottom: 125px;
+    font-size: 32px;
+    color: #fff !important;
+}
+
+.image-logo {
+    margin-top: 62.5px;
+}
+
+.text-middle {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 150%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.text-middle-2 {
+    background: linear-gradient(90deg, #FBC300 0%, #EA62E4 98.25%);
+    background-clip: text;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    text-align: center;
+}
+
+.carousel {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iphone-img {
+    display: flex;
+    justify-content: right !important;
+    align-items: end !important;
+}
+
+.text-2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.text-3 {
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150%;
+    text-align: center;
+    color: #192B4D;
+    margin-top: 80px;
+}
+
+.wrapper-btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
